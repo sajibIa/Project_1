@@ -1,1 +1,2 @@
-# Project_1
+# Fast-Project
+This is my fast project
